@@ -1,0 +1,61 @@
+header{
+    margin-bottom:30px;
+}
+img{
+    width: 150px;
+    height:150px;
+    margin-top:40px;
+    margin-left:40px;
+    margin-right:40px;
+}
+span{
+    margin-right:130px;
+    margin-left:100px;
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    font-weight: 550;
+}
+.name{
+    font-size: 30px;
+    margin-left:500px;
+    font-size: 40px;
+    opacity: 0.8;
+}
+.my-name{
+    font-size:20px;
+}
+.description{
+    margin-left:200px;
+    margin-right:200px;
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+table, th, td {
+    border: 1px solid rgb(249, 244, 244);
+    border-collapse: collapse;
+    text-align: center;
+  }
+  th, td {
+    padding: 10px;
+  }
+  .titles{
+    color: rgb(24, 97, 157);
+  }
+  table {
+    border-spacing: 30px;
+    margin-bottom:20px;
+    width:700px;
+  }
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+.Signature{
+   margin-left:1000px;
+   font-size: 30px;
+}
+.sign{
+    font-size: 20px;
+    opacity: 0.8;
+    margin-left: 50px;
+}
